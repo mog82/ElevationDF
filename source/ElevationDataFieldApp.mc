@@ -1,6 +1,9 @@
 using Toybox.Application as App;
 using Toybox.System as Sys;
 
+//  Realeases :
+//   12/07/2015 - mog82 - v1.0
+
 class ElevationDataFieldApp extends App.AppBase {
 
     //! onStart() is called on application start up
