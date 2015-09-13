@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">3 Elevations</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+</resources>
